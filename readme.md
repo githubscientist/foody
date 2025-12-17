@@ -1,4 +1,4 @@
-# Delicious Recipes App
+# Delicious Bites
 
 Welcome to the Delicious Recipes App! This application allows users to explore, share, and save their favorite recipes from around the world. Whether you're a seasoned chef or a home cook, you'll find something to inspire your culinary adventures.
 
